@@ -19,8 +19,8 @@ provider with an unstable delivery system makes running [integration tests][smw]
 ## Disclaimer
 
 Files included in this repository should by no means convey a sense of ownership
-or maintenance responsibility. Files are purely provide for the convenience and
-can change without prior notice.
+or maintenance responsibility. Files are provided purely on the notion of
+convenience and can change without prior notice.
 
 [smw]: https://travis-ci.org/SemanticMediaWiki/SemanticMediaWiki
 [sesame]: http://rdf4j.org/
