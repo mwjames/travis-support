@@ -1,14 +1,10 @@
 # travis-support
 
-This is a service repository for files used in connection with the Travis-CI environment
-since trying to rely on sourceforge.org has been proven difficult. Relying on a
-provider with an unstable delivery system makes running [integration tests][smw] a challenge.
-
-![image](https://cloud.githubusercontent.com/assets/1245473/12047567/f17d47b8-aecd-11e5-9a2c-2ae52effa982.png)
+This is a service repository for files used in connection with the Travis-CI environment.
 
 ## Services
 
-* [Sesame](/sesame)
+* [rdf4j](/rdfj) (formerly [Sesame](/sesame))
 * [Blazegraph](/blazegraph)
 * [Fuseki](/fuseki)
 
